@@ -22,7 +22,10 @@ To have launchd start mysql now and restart at login:
   
 Or, if you don't want/need a background service you can just run:
 
+  
+  ```
   mysql.server start
+  ```
   
 
   
