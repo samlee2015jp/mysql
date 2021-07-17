@@ -31,6 +31,6 @@ Or, if you don't want/need a background service you can just run:
   Note: By default, the MySQL user root has no password. It doesn't really matter for a local development database.
   If you wish to change it though, you can use 
   
-    mysqladmin -u root password 'new-password'.
+    mysqladmin -u root password 'new-password'
   
 
